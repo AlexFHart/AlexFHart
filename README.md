@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexFHart
+- 👀 I’m interested in bioinformatics and machine learning!
+- 🌱 I’m currently learning R and python, mostly.
+- 📫 Reach me on twitter at @AlexFHart
